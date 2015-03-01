@@ -4,7 +4,7 @@ iTanks is a web game where you control a tank and try to outlast the other tanks
 
 # Requirements
 
-* [Monkey X](http://www.monkey-x.com) - The free or pro version.
+* [Monkey X](http://www.monkey-x.com) - The free or pro version.  Last validated with **MonkeyXPro82b**
 * [Diddy](https://code.google.com/p/diddy/) - An open-source framework that extends Monkey-X 
   * Caveat - The latest version of diddy breaks the build since they changed the API.  I've included an old version so that you can still build in the lib/ directory.
 
