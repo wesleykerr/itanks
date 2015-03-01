@@ -10,8 +10,6 @@ iTanks is a web game where you control a tank and try to outlast the other tanks
 
 The only other change is that you have to update the HTML template to have width=960 and height=640 instead of the defaults that come with Monkey X otherwise everything will not render correctly.
 
-# Team
-
 ## Programming
 
 * [Wesley Kerr](http://www.wesley-kerr.com)
