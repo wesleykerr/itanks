@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<psystem>
+	<groups>
+		<group Name="group1" MaxParticles="5000">
+			<constantforce Name="gravity" X="0" Y="0" Enabled="true" />
+		</group>
+		
+		<group Name="group2" MaxParticles="5000">
+			<constantforce Name="gravity" X="0" Y="0" Enabled="true" />
+		</group>
+		
+	</groups>
+	<emitters>
+		<emitter Name="emit1"
+				Group="group1"
+				StartRed="100" EndRed="255"
+				StartGreen="100" EndGreen="255"
+				StartBlue="100" EndBlue="255"
+				Life="2"
+				LifeSpread="1.5"
+				AlphaInterpolationTime="0.5"
+				ParticleImage="speck"
+				Scale="1.5"
+				ScaleSpread="2"
+				PolarVelocityAngle="0"
+				PolarVelocityAngleSpread="360"
+				PolarVelocityAmplitude="20"
+				PolarVelocityAmplitudeSpread="30" />
+
+		<emitter Name="emit2"
+				Group="group2"
+				StartRed="255" EndRed="255"
+				StartGreen="0" EndGreen="255"
+				StartBlue="0" EndBlue="0"
+				Life="0.5"
+				LifeSpread="0.5"
+				AlphaInterpolationTime="0.5"
+				ParticleImage="speck"
+				Scale="1.5"
+				ScaleSpread="2"
+				PolarVelocityAngle="0"
+				PolarVelocityAngleSpread="360"
+				PolarVelocityAmplitude="40"
+				PolarVelocityAmplitudeSpread="50" />
+
+	</emitters>
+</psystem>
