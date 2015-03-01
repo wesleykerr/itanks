@@ -2,6 +2,10 @@
 
 iTanks is a web game where you control a tank and try to outlast the other tanks.  It was a collaboration between myself, Tegan Moersfelder, and Ryan Appel as part of the UW-Stout 48 hour programming contest.  I had heard of this new game development tool called [Monkey X](http://www.monkey-x.com/) and wanted to see how hard it was to make a game in it.  So as part of the 48 hours we had to learn the language and create a fun game.
 
+# Play Now
+
+[Click here](http://www.wesley-kerr.com/games/itanks/MonkeyGame.html)
+
 # Requirements
 
 * [Monkey X](http://www.monkey-x.com) - The free or pro version.  Last validated with **MonkeyXPro82b**
